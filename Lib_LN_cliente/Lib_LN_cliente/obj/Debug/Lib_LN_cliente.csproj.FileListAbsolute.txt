@@ -1,0 +1,24 @@
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\Lib_LN_cliente.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\Lib_LN_cliente.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibConexionBD.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibParametro.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibConexionBD.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibParametro.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.csproj.AssemblyReference.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.csproj.CoreCompileInputs.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.csproj.CopyComplete
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\4 capaz cliente\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\Lib_LN_cliente.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\Lib_LN_cliente.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibConexionBD.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibParametro.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibConexionBD.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibParametro.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.csproj.AssemblyReference.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.csproj.CoreCompileInputs.cache
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.csproj.CopyComplete
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\obj\Debug\Lib_LN_cliente.pdb
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibLlenarGrid.dll
+E:\Desktop\sena daniel\tercer trimestre\adalbeiro\csharp-.net-sqlserver-employees-4layers-\Lib_LN_cliente\Lib_LN_cliente\bin\Debug\LibLlenarGrid.pdb
